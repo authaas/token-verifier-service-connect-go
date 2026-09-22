@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.0 - 2026-09-22
+#### Features
+- instance in logging - (b125c8d) - Nathan Blair
+#### Miscellaneous Chores
+- Dockerfile whitespace - (48b1d05) - Nathan Blair
+
+- - -
+
 ## 0.1.0 - 2026-09-21
 #### Features
 - initial release - (24fa5cb) - Nathan Blair
