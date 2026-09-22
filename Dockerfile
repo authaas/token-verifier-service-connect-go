@@ -4,6 +4,7 @@ ARG health_name=grpc_health_probe
 # ARG grpc_health_probe_version=v0.4.57
 ARG module_path=.
 
+
 FROM golang:alpine AS deps
 ARG module_path=.
 ARG build_dir
